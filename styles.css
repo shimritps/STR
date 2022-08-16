@@ -19,7 +19,7 @@ hr {margin-top: 25px;}
 	margin-left:75px;
 	border-radius:50%;
 	object-fit: cover;
-	object-position: 80% 30%;
+	object-position: 40% 30%;
 }
 
 #ob {
@@ -87,6 +87,7 @@ p {
   content:"";
   clear: both;
   display: table;
+  text-align:center;
 }
 
 .years {
